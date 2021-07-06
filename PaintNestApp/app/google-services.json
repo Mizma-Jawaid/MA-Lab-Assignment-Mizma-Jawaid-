@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "935219933240",
+    "project_id": "paint-nest-app",
+    "storage_bucket": "paint-nest-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935219933240:android:d05329674769d6ddeb76cd",
+        "android_client_info": {
+          "package_name": "com.paint_nest_mobile.paintnestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935219933240-hfb9aml7gq6u68h1e7ajl5rkjmjrcivg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeyhMmb7qCp2htrsqj-TI78dJMG1rLLmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935219933240-hfb9aml7gq6u68h1e7ajl5rkjmjrcivg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
